@@ -1,5 +1,5 @@
 My Weather
-![Netlify](https://checkmyweathernow.netlify.app/)
+![Netlify Status](https://checkmyweathernow.netlify.app/)
 
 Tech Stack Used: React.js, Next.Js, HTML, CSS, TypeScript, Sass
 
