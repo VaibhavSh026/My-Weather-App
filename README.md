@@ -1,5 +1,7 @@
 My Weather
-![Vercel](https://vercelbadge.vercel.app/api/seguinleo/meteo)
+![Netlify](https://checkmyweathernow.netlify.app/)
+
+Tech Stack Used: React.js, Next.Js, HTML, CSS, TypeScript, Sass
 
 Weather PWA developed with Next.js and [OpenWeatherMapAPI](https://openweathermap.org/api).
 
